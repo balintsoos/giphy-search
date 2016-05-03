@@ -1,0 +1,29 @@
+{
+  "name": "giphy-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://balintsoos@github.com/balintsoos/giphy-search.git"
+  },
+  "keywords": [
+    "giphy",
+    "search"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balintsoos/giphy-search/issues"
+  },
+  "homepage": "https://github.com/balintsoos/giphy-search#readme",
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "express": "4.13.4",
+    "morgan": "1.7.0",
+    "request": "2.72.0"
+  }
+}
